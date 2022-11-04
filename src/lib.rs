@@ -9,4 +9,5 @@ pub mod leetcode_383;
 pub mod leetcode_412;
 pub mod leetcode_766;
 pub mod leetcode_876;
+pub mod leetcode_1;
 pub mod utils;

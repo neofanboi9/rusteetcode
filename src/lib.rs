@@ -11,4 +11,5 @@ pub mod leetcode_412;
 pub mod leetcode_64;
 pub mod leetcode_766;
 pub mod leetcode_876;
+pub mod leetcode_26;
 pub mod utils;

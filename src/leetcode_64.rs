@@ -31,7 +31,7 @@ fn tests() {
         7
     );
     assert_eq!(
-        Solution::min_path_sum(vec![vec![1,2,3],vec![4,5,6]]),
+        Solution::min_path_sum(vec![vec![1, 2, 3], vec![4, 5, 6]]),
         12
     )
 }
